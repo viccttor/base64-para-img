@@ -1,0 +1,55 @@
+C:\ATOS-CAPITAL\APPs-Console\Teste1\bin\Debug\net5.0\Teste1.exe
+C:\ATOS-CAPITAL\APPs-Console\Teste1\bin\Debug\net5.0\Teste1.deps.json
+C:\ATOS-CAPITAL\APPs-Console\Teste1\bin\Debug\net5.0\Teste1.runtimeconfig.json
+C:\ATOS-CAPITAL\APPs-Console\Teste1\bin\Debug\net5.0\Teste1.runtimeconfig.dev.json
+C:\ATOS-CAPITAL\APPs-Console\Teste1\bin\Debug\net5.0\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\Teste1\bin\Debug\net5.0\Teste1.pdb
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.AssemblyInfoInputs.cache
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.AssemblyInfo.cs
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.csproj.CoreCompileInputs.cache
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\refint\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.pdb
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\Teste1.genruntimeconfig.cache
+C:\ATOS-CAPITAL\APPs-Console\Teste1\obj\Debug\net5.0\ref\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Teste1.exe
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Teste1.deps.json
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Teste1.runtimeconfig.json
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Teste1.runtimeconfig.dev.json
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Teste1.pdb
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\Npgsql.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.csproj.AssemblyReference.cache
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.AssemblyInfoInputs.cache
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.AssemblyInfo.cs
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.csproj.CoreCompileInputs.cache
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.csproj.CopyComplete
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.pdb
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\Teste1.genruntimeconfig.cache
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\obj\Debug\net5.0\ref\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\TESTE 1\bin\Debug\net5.0\ref\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Teste1.exe
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Teste1.deps.json
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Teste1.runtimeconfig.json
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Teste1.runtimeconfig.dev.json
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\ref\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Teste1.pdb
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\Npgsql.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.csproj.AssemblyReference.cache
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.AssemblyInfoInputs.cache
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.AssemblyInfo.cs
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.csproj.CoreCompileInputs.cache
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.csproj.CopyComplete
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\ref\Teste1.dll
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.pdb
+C:\ATOS-CAPITAL\APPs-Console\base64 para img\obj\Debug\net5.0\Teste1.genruntimeconfig.cache

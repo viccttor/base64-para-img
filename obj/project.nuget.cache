@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVUbW+sR1QSco+kdwiMyhtJpXQTuTj5rlknFXkA+RNRQIUJCu2YS+I90TVkteloJ9PR8/s3QYnaYeJF9/hIA0A==",
+  "success": true,
+  "projectFilePath": "C:\\ATOS-CAPITAL\\APPs-Console\\base64 para img\\Teste1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viche\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\viche\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\viche\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\viche\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\viche\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
